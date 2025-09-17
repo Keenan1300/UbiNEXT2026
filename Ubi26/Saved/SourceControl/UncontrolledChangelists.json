@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/UbisoftNEXT26.umap",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Import/TestSize.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/Black.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Candleabra/standardSurface1.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Candleabra/Candleabra.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/Black1.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/Light.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/NewMaterial.uasset",
+				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/Default.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/UbisoftNEXT26.umap",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Import/openPBR_shader1.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Import/TestSize.uasset",
@@ -37,7 +47,6 @@
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/OilDrumStandard/NuclearWaste/RGB.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/OilDrumStandard/NuclearWaste/RGB_1.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/OilDrumStandard/NuclearWaste/NuclearWaste.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/Material/WallDefault.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/LibraryShelf/Import/Material.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/LibraryShelf/Import/openPBR_shader1.uasset",
@@ -56,8 +65,7 @@
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/BrickTIle1/FloorTile/openPBR_shader1.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/BrickTIle1/FloorTile/initialShadingGroup.uasset",
 				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/BrickTIle1/FloorTile/LPFloorTile.uasset",
-				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/BrickTIle1/FloorTile/FloorTile1LP.uasset",
-				"C:/Users/DANNY/source/repos/UbiNEXT2026/Ubi26/Content/UbisoftNEXT26.umap"
+				"C:/Users/hamilt25/source/repos/UbiNEXT2026/Ubi26/Content/Prefab/BrickTIle1/FloorTile/FloorTile1LP.uasset"
 			]
 		}
 	]
